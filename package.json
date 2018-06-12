@@ -1,0 +1,8 @@
+{
+  "name": "fronto-material-ui",
+  "version": "0.0.1",
+  "description": "Fronto theme provider wrapper for React MaterialUI",
+  "main": "dist/fronto-material-ui.js",
+  "repository": "https://github.com/karolkochan/fronto-material-ui.git",
+  "author": "Karol Kochan <karolkochan@gmail.com>"
+}
