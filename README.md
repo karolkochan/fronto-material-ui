@@ -2,6 +2,10 @@
 
 React component connecting your Fronto config with application created using `material-ui`.
 
+---
+
+[fronto.io](http://fronto.io/)
+
 ## Installation
 
 Add `fronto-material-ui` to your `package.json`:
