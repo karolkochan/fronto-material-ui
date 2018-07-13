@@ -19,15 +19,15 @@ Import fronto component in application entry file and wrap your app with it:
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import FrontoWrapper from 'fronto-material-ui';
+import FrontoThemeProvider from 'fronto-material-ui';
 
 import YourAppRootComponent from './YourAppRootComponent';
  
 function App() {
   return (
-    <FrontoWrapper clientId={'5b1acfb121652a131b0662c6'}>
+    <FrontoThemeProvider clientId={'5b1acfb121652a131b0662c6'}>
       <YourAppRootComponent/>
-    </FrontoWrapper>
+    </FrontoThemeProvider>
   );
 }
  
