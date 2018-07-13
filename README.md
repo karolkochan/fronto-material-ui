@@ -19,7 +19,7 @@ Import fronto component in application entry file and wrap your app with it:
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import FrontoThemeProvider from 'fronto-material-ui';
+import {FrontoThemeProvider} from 'fronto-material-ui';
 
 import YourAppRootComponent from './YourAppRootComponent';
  
